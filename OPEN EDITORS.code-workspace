@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../OPEN EDITORS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OPEN EDITORS"
+	}
+}
